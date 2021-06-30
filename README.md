@@ -1,2 +1,2 @@
-# mini-JS
-Card_JS Slide
+# Card_JS Slide
+
